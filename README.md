@@ -43,4 +43,4 @@ $ rails server
 * **email** : sample@email.com
 * **password** : password
 
-### Change from HTTPS to SSH
+### Change from HTTPS to SSHです
